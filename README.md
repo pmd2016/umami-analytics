@@ -36,7 +36,7 @@ A simple, privacy-focused WordPress plugin that integrates [Umami Analytics](htt
 
 ```bash
 cd wp-content/plugins/
-git clone https://github.com/yourusername/umami-analytics-wordpress.git umami-analytics
+git clone https://github.com/pmd2016/umami-analytics.git umami-analytics
 ```
 
 Then activate the plugin in your WordPress admin.
@@ -164,7 +164,7 @@ We welcome contributions! Here's how you can help:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/umami-analytics-wordpress.git
+git clone https://github.com/pmd2016/umami-analytics.git
 
 # Set up a local WordPress development environment
 # Copy plugin to wp-content/plugins/umami-analytics/
@@ -175,7 +175,7 @@ composer install --dev
 
 ## 📝 Changelog
 
-### [1.0.0] - 2025-01-XX
+### [1.0.0] - 2025-01-27
 - Initial release
 - Basic Umami Analytics integration
 - WordPress Settings API implementation
