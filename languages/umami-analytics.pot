@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Umami Analytics package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Umami Analytics 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-26 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: umami-analytics.php:60
+msgid "Umami Analytics Settings"
+msgstr ""
+
+#: umami-analytics.php:61
+msgid "Umami Analytics"
+msgstr ""
+
+#: umami-analytics.php:76
+msgid "Umami Analytics Configuration"
+msgstr ""
+
+#: umami-analytics.php:83
+msgid "Umami URL"
+msgstr ""
+
+#: umami-analytics.php:90
+msgid "Website ID"
+msgstr ""
+
+#: umami-analytics.php:97
+msgid "Enable Tracking"
+msgstr ""
+
+#: umami-analytics.php:121
+msgid "Configure your Umami Analytics tracking settings below."
+msgstr ""
+
+#: umami-analytics.php:130
+msgid "Enter your Umami instance URL (e.g., https://analytics.yourdomain.com)"
+msgstr ""
+
+#: umami-analytics.php:139
+msgid "Enter your Website ID from the Umami dashboard"
+msgstr ""
+
+#: umami-analytics.php:148
+msgid "Enable Umami tracking on your website"
+msgstr ""
+
+#: umami-analytics.php:155
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: umami-analytics.php:169
+msgid "How to set up Umami Analytics"
+msgstr ""
+
+#: umami-analytics.php:171
+msgid "Log in to your Umami Analytics dashboard"
+msgstr ""
+
+#: umami-analytics.php:172
+msgid "Add your website to get the Website ID"
+msgstr ""
+
+#: umami-analytics.php:173
+msgid "Enter your Umami instance URL and Website ID above"
+msgstr ""
+
+#: umami-analytics.php:174
+msgid "Make sure \"Enable Tracking\" is checked"
+msgstr ""
+
+#: umami-analytics.php:175
+msgid "Save the settings"
+msgstr ""
+
+#: umami-analytics.php:178
+msgid "Need help?"
+msgstr ""
+
+#: umami-analytics.php:179
+msgid "Visit Umami Documentation"
+msgstr ""
+
+#: umami-analytics.php:234
+msgid "Your analytics tracking is not configured yet. <a href=\"%s\">Configure it now</a> to start tracking your website visitors."
+msgstr ""
